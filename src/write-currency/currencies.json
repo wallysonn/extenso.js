@@ -30,5 +30,13 @@
       "singular": "centavos",
       "plural": "centavos"
     }
+  },
+  "USD": {
+    "singular": "dólar",
+    "plural": "dolares",
+    "subunit": {
+      "singular": "centavo",
+      "plural": "centavos"
+    }
   }
 }
